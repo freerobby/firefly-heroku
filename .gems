@@ -1,2 +1,2 @@
 firefly -v=0.4.3
-do_postgres
+dm-postgres-adapter
